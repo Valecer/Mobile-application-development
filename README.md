@@ -6,6 +6,7 @@
 ---
 > Цель данной работы - установить android studio и разобраться с интерефейсом программы
 1. Шаг 1 
-![image](https://user-images.githubusercontent.com/82840265/144671881-c3381236-ecf8-4617-9631-d8b8035941dc.png)
+>Установка
+>>![image](https://user-images.githubusercontent.com/82840265/144671881-c3381236-ecf8-4617-9631-d8b8035941dc.png)
 2. Шаг 2
 3. 
